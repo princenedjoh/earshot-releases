@@ -6,7 +6,7 @@ This repository holds downloads only. The app is in early beta.
 
 ## Download
 
-Get the latest build from [Releases](https://github.com/princenedjoh/earshot-releases/releases/latest).
+Get the newest build from [Releases](https://github.com/princenedjoh/earshot-releases/releases).
 
 | Your Mac | File |
 |---|---|
